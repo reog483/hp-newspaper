@@ -1,0 +1,40 @@
+body {
+    background-image: url(images/background.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 80px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-family: 'Fredericka the Great';
+    font-style: normal;
+  vertical-align: middle;
+  font-size: 80px;
+}
+h2 {
+    font-family: 'Fredericka the Great';
+    font-style: normal;
+    font-size: 100px;
+    text-align: center;
+}
+h3 {
+    font-family: 'Fredericka the Great';
+    font-style: normal;
+    font-size: 45px;
+    text-align: center; 
+} 
+
+p{
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Qwitcher Grypen';
+    font-size: 30px;
+}
